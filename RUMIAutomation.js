@@ -45,8 +45,7 @@
         '45724': 'Alabbas Ibrahim Abdo Dabajeh',
         '22529': 'Diya Jalal Abdel Hadi Mallah',
         '37862': 'Husam Ahmad Ibrahim Alnajy',
-        '32951': 'Bader Alzoubi',
-        '48414': 'Rabee Almahmoud',
+        '32951': 'Bader Alzoubi'
     };
 
     // Zendesk User ID -> PQMS OPS ID mapping (auto-select PQMS user based on logged-in user)
@@ -11231,5 +11230,6 @@
     } else {
         initRUMI();
     }
+
 
 })();
